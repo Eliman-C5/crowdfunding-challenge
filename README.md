@@ -34,7 +34,7 @@ Desktop Design:
 ![screenshot](../screenshots/desktop-design.png)
 
 Mobile Design:
-![screenshot](../screenshots/mobile-design.png)
+![screenshot](screenshots/mobile-design.png)
 
 Special parts:
 ![screenshot](../screenshots/mobile-navbar-active.png)
@@ -65,4 +65,4 @@ I used REM over px, em or another measure and the design were created with Flexb
 ## Author
 
 - Website - [Eli Castellano](https://elicastellano.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Eliman-C5)
+- Frontend Mentor - [@Eliman-C5](https://www.frontendmentor.io/profile/Eliman-C5)
