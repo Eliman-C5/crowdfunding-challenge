@@ -31,16 +31,16 @@ Users should be able to:
 ### Screenshots
 
 Desktop Design:
-![screenshot](../screenshots/desktop-design.png)
+![screenshot](screenshots/desktop-design.png)
 
 Mobile Design:
 ![screenshot](screenshots/mobile-design.png)
 
 Special parts:
-![screenshot](../screenshots/mobile-navbar-active.png)
-![screenshot](../screenshots/modal-design.png)
-![screenshot](../screenshots/active-bookmark.png)
-![screenshot](../screenshots/back-this-project-active.png)
+![screenshot](screenshots/mobile-navbar-active.png)
+![screenshot](screenshots/modal-design.png)
+![screenshot](screenshots/active-bookmark.png)
+![screenshot](screenshots/back-this-project-active.png)
 
 ### Links
 
